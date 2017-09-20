@@ -3,7 +3,7 @@ class Hasuractl < Formula
   homepage "https://hasura.io"
   url "https://storage.googleapis.com/hasuractl/v0.1.12/darwin-amd64/hasuractl"
   version "v0.1.12"
-  sha256 "24b1e33d94d934b721442a052af61e04410f5f57"
+  sha256 "90bb3cb74fb4516407936672e97caafb8b3d39defba6db9a8d6c7643dd43391e"
 
   depends_on "git"
   depends_on "kubernetes-cli"
